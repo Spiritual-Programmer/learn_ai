@@ -1,0 +1,12 @@
+#environment
+.env
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
